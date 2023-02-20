@@ -1,0 +1,59 @@
+
+
+Opcode Error 
+Program terminated abnormally!
+Job No 1 is not executed. 
+
+SI = 3  TI =0  PI=1
+TTC = 1  LLC=0
+------------------------------------------------------------------
+
+NOT SAME                                
+
+
+Program terminated normally!
+
+SI = 2  TI =0  PI =3
+TTC = 13  LLC =1
+------------------------------------------------------------------
+
+Hello World                             
+
+
+Line Limit Exceeded! It printed 1 lines. Expected Line Limit was 0.
+Program terminated abnormally!
+
+SI = 2  TI =0  PI=3
+TTC = 4  LLC=1
+------------------------------------------------------------------
+
+$                                       
+$   $                                   
+$   $   $                               
+$   $                                   
+$                                       
+
+
+Time Limit Exceeded! It took 25 units of time. Expected TTL was 16.
+Program terminated abnormally!
+
+SI = 2  TI =2  PI=3
+TTC = 25  LLC=5
+------------------------------------------------------------------
+
+
+
+Operand Error 
+Program terminated abnormally!
+Job No 5 is not executed. 
+
+SI = 1  TI =2  PI=2
+TTC = 3  LLC=0
+------------------------------------------------------------------
+
+Out of Data. Program terminated abnormally!
+
+SI = 1  TI =2  PI=0
+TTC = 0  LLC=0
+------------------------------------------------------------------
+
